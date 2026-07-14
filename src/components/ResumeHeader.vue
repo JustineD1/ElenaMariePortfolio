@@ -8,9 +8,7 @@
         <h1 class="text-6xl sm:text-7xl md:text-8xl lg:text-[5.5rem] xl:text-[6.5rem] font-black tracking-tight text-slate-950 leading-[1.05]">
           Hi, I'm Elena
         </h1>
-        <p class="text-2xl md:text-3xl lg:text-4xl font-extrabold text-emerald-600 tracking-wide">
-          Communication Specialist / Professional Instructor
-        </p>
+       
       </div>
 
       <!-- Main description -->
